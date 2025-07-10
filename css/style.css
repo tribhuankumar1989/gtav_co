@@ -11,9 +11,9 @@
 }
 .logo {
   display: inline-block;
-  margin: 15px; 
+  margin: 1px; 
   float: left;
-  height: 60px;
+  height: 40px;
   width: auto; 
   border-radius: 50%; 
 }
